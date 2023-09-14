@@ -1,0 +1,61 @@
+﻿@model Html;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+</head>
+<body>
+    @* Normal Label and Input *@
+    <div>
+        @Html.LabelFor(model=>model.Title,"Tittle :",new {@class = "form-label"})
+        @Html.EditorFor(model=>model.Title,new {@class="form-control"})
+        @Html.ValidationMessageFor(model=>model.Title,"",new {@class="text-danger"})
+    </div>
+    <div>
+        <div>
+            @* Using Radio Button For Gender  *@
+            @Html.LabelFor(model => model.Gender, "Male", new { @class = "form-label",@for="Male"})
+            @Html.RadioButtonFor(model => model.Gender, "Male", new { @class = "form-check-control",@for="Male" , id="Male"})
+            @Html.ValidationMessageFor(model=>model.Title,"",new {@class="text-danger"})
+        </div>
+        <div>
+            @Html.LabelFor(model => model.Gender, "Female", new { @class = "form-label" ,@for="Female"})
+            @Html.RadioButtonFor(model => model.Gender, "Female", new { @class = "form-check-control", @for="Female", id="Female"})
+            @Html.ValidationMessageFor(model=>model.Gender,"",new {@class="text-danger"})
+        </div>
+        <div>
+            @* Using Drop Down List *@
+            @Html.LabelFor(model => model.list, "List", new { @class = "form-label"})
+            @Html.DropDownListFor(model => model.list, new List<SelectListItem> { new SelectListItem { Text = "India", Value = "hi" },
+            new SelectListItem {Text="Australia",Value="aus"}},new { @class = "form-control" })
+        </div>
+        <div>
+            @* Using Checkbox  *@
+            <label>Hobbies :</label>
+            <br>
+            @Html.LabelFor(model=>model.Play,"play",new {@class="form-label"})
+            @Html.CheckBoxFor(model=>model.Play,new {@class="form-label"})
+            <br>
+            @Html.LabelFor(model=>model.Music,"Music",new {@class="form-label"})
+            @Html.CheckBoxFor(model=>model.Music,new {@class="form-check-input"})
+            <br>
+            @Html.LabelFor(model=>model.Song,"Music",new {@class="form-label"})
+            @Html.CheckBoxFor(model=>model.Song,new {@class="form-check-input"})
+        </div>
+        @* Recieve Image *@
+        <div>
+            @Html.LabelFor(model=>model.image,"Image",new {@class="form-label"})
+            @Html.EditorFor(model=>model.image,new {@class="from-input"})
+        </div>
+        <div>
+            @* Displaying The Image*@
+
+            @Html.Label("Displaying Image")
+            
+        </div>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.AssemblyInfoInputs.cache
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.AssemblyInfo.cs
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.csproj.CoreCompileInputs.cache
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.RazorAssemblyInfo.cache
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.RazorAssemblyInfo.cs
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\appsettings.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\Html Helper.staticwebassets.runtime.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\Html Helper.exe
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\Html Helper.deps.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\Html Helper.runtimeconfig.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\Html Helper.dll
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\bin\Debug\net6.0\Html Helper.pdb
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\staticwebassets\msbuild.Html Helper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\staticwebassets\msbuild.build.Html Helper.props
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Html Helper.props
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Html Helper.props
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\scopedcss\bundle\Html Helper.styles.css
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\scopedcss\projectbundle\Html Helper.bundle.scp.css
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.dll
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\refint\Html Helper.dll
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.pdb
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\Html Helper.genruntimeconfig.cache
+C:\Users\kf0059\source\repos\Html Helper\Html Helper\obj\Debug\net6.0\ref\Html Helper.dll
